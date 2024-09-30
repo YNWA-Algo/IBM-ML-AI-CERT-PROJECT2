@@ -20,9 +20,9 @@ I7. 04f_M3_Clustering_Methods.ipynb
 I8. 4f_M4_PCA_Matrix_Review.ipynb  
 I9. 04g_M4_Dimensionality_Reduction.ipynb
 I10. 4i_M4_SVD.ipynb
-I11. 
+I11. 4_M6b_tf_idf_Termfreq.ipynb
 
-H - Dealing with imbalanced datasets typical patterns of imbalanced data challenges
+## I - Section 4: Matrix review and dimensionality reduction | Singular Value Decomposition (Vision)  | Text classification Term Freq
 
 Class Re-weighting method to adjust the impacts of different classes in model training processes
 Oversampling and Undersampling to generate synthetic datasets and rebalance classes
