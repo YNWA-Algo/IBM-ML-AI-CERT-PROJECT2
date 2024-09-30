@@ -1,12 +1,13 @@
 # IBM-ML-AI-CERT-PROJECT2
 Unsupervised ML, Deep Learning - IBM projects. A collection of my google colab notebooks through my IBM - Unsupervised and Deep learning certification course
 
-I - Section is Unsupervised ML - KMeans and Gausian Matrix Models (GMMs):
+I - Section is Unsupervised ML - KMeans Clustering and Gausian Matrix Models (GMMs) - clustering and a study on Distance Dimensionality
 
 
 I1. 04a_2_KmeansClustering.ipynb  
 I2. 04a_KMeansClustering.ipynb  
-I3. 04a3_GMM_v2.ipynb
+I3. 04a3_GMM_v2.ipynb  
+I4. 04bM2_Distance_Dimensionality.ipynb
 G2 - 03bL3.Wk2_KNN1.ipynb
 G3 - 03cL3_Wk3_SVM.ipynb
 G4 - 03dL3_Wk3_SVM_RBF.ipynb
