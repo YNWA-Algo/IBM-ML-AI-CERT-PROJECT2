@@ -17,7 +17,8 @@ I6. 4d_M3_DBSCAN.ipynb
 I7. 04f_M3_Clustering_Methods.ipynb
 
 I - Section 3: Matrix review and dimensionality reduction  
-I8. 4f_M4_PCA_Matrix_Review.ipynb
+I8. 4f_M4_PCA_Matrix_Review.ipynb  
+I9. 04g_M4_Dimensionality_Reduction.ipynb
 
 H - Dealing with imbalanced datasets typical patterns of imbalanced data challenges
 
