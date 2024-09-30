@@ -1,12 +1,10 @@
 # IBM-ML-AI-CERT-PROJECT2
 Unsupervised ML, Deep Learning - IBM projects. A collection of my google colab notebooks through my IBM - Unsupervised and Deep learning certification course
 
-G - Section is ML - Classification: + Advanced Model Types/Reg Techniques: Bagging,Boosting and othe Ensemble methods
+I - Section is Unsupervised ML - KMeans and Gausian Matrix Models (GMMs):
 
-Logistic Reg error metrics- precision, recall, confusion matrix etc. KNN approach to class, support vector machines
-Bagging, Gradient Boosting, XG Boost,Stacking.
 
-G1 - 03aL3_Wk1_Logistic_Regression_Error_Metrics.ipynb
+I1 - 04a_2_KmeansClustering.ipynb
 G2 - 03bL3.Wk2_KNN1.ipynb
 G3 - 03cL3_Wk3_SVM.ipynb
 G4 - 03dL3_Wk3_SVM_RBF.ipynb
