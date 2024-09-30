@@ -8,12 +8,11 @@ I1. 04a_2_KmeansClustering.ipynb
 I2. 04a_KMeansClustering.ipynb  
 I3. 04a3_GMM_v2.ipynb  
 I4. 04bM2_Distance_Dimensionality.ipynb  
-I5. 4cM2_DistanceMetrics.ipynb
-G2 - 03bL3.Wk2_KNN1.ipynb
-G3 - 03cL3_Wk3_SVM.ipynb
-G4 - 03dL3_Wk3_SVM_RBF.ipynb
-G5 - 03dL3_WK3_Decision_Trees.ipynb
-G6 - 03e_L3_Wk5_Bagging.ipynb
+I5. 4cM2_DistanceMetrics.ipynb  
+
+I - Section 2: DBSCAN CLustering [Density-Based Spatial Clustering of Applications with Noise (DBSCAN) is a base algorithm for density-based clustering.] \ 
+
+
 
 G7 - 03gL3_Wk5_GradientBoosting_and_Stacking.ipynb
 
