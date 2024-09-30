@@ -24,7 +24,4 @@ I11. 4_M6b_tf_idf_Termfreq.ipynb
 
 ## I - Section 4: Matrix review and dimensionality reduction | Singular Value Decomposition (Vision)  | Text classification Term Freq
 
-Class Re-weighting method to adjust the impacts of different classes in model training processes
-Oversampling and Undersampling to generate synthetic datasets and rebalance classes
-Evaluate consolidated classifiers using robust metrics such as F-score and AUC
-H1 - 3hL3Wk6__imbalanced_data.ipynb
+
