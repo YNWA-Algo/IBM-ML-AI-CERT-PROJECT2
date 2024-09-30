@@ -22,8 +22,9 @@ I9. 04g_M4_Dimensionality_Reduction.ipynb
 I10. 4i_M4_SVD.ipynb
 I11. 4_M6b_tf_idf_Termfreq.ipynb
 
-## I - Section 4: Matrix review and dimensionality reduction | Singular Value Decomposition (Vision)  | Text classification Term Freq
+## I - Section 4: KernalPCA, MultiDimensional Scalling, Non Negative Matrix Factorization
 
 I12. 5a_M5_KernelPCA.ipynb  
 I13. 5b_M5_Multi_Dimensional_Scaling.ipynb
+I14. 4_M6c_Non_Negative_Matrix_Factorization.ipynb
 
