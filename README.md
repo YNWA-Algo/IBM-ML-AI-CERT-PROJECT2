@@ -1,7 +1,7 @@
 # IBM-ML-AI-CERT-PROJECT2
 Unsupervised ML, Deep Learning - IBM projects. A collection of my google colab notebooks through my IBM - Unsupervised and Deep learning certification course
 
-I - Section is Unsupervised ML - KMeans Clustering and Gausian Matrix Models (GMMs) - clustering and a study on Distance Dimensionality | Use cases for distance metrics for NLP, Kmeans, etc. 
+I - Section 1 is Unsupervised ML - KMeans Clustering and Gausian Matrix Models (GMMs) - clustering and a study on Distance Dimensionality | Use cases for distance metrics for NLP, Kmeans, etc. 
 
 
 I1. 04a_2_KmeansClustering.ipynb  
@@ -15,6 +15,8 @@ I - Section 2: DBSCAN CLustering [Density-Based Spatial Clustering of Applicatio
 
 I6. 4d_M3_DBSCAN.ipynb  
 I7. 04f_M3_Clustering_Methods.ipynb
+
+I - Section 3: Matrix review and dimensionality reduction  
 
 
 H - Dealing with imbalanced datasets typical patterns of imbalanced data challenges
