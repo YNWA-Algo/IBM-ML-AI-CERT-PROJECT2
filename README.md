@@ -5,7 +5,7 @@ I - Section is Unsupervised ML - KMeans and Gausian Matrix Models (GMMs):
 
 
 I1. 04a_2_KmeansClustering.ipynb  
-I2. 04a_KMeansClustering.ipynb 
+I2. 04a_KMeansClustering.ipynb  
 I3. 04a3_GMM_v2.ipynb
 G2 - 03bL3.Wk2_KNN1.ipynb
 G3 - 03cL3_Wk3_SVM.ipynb
