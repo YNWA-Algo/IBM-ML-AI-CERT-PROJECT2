@@ -4,7 +4,7 @@ Unsupervised ML, Deep Learning - IBM projects. A collection of my google colab n
 I - Section is Unsupervised ML - KMeans and Gausian Matrix Models (GMMs):
 
 
-I1 - 04a_2_KmeansClustering.ipynb 
+I1 - 04a_2_KmeansClustering.ipynb  
 I2. 04a_KMeansClustering.ipynb
 G2 - 03bL3.Wk2_KNN1.ipynb
 G3 - 03cL3_Wk3_SVM.ipynb
