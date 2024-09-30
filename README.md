@@ -24,4 +24,5 @@ I11. 4_M6b_tf_idf_Termfreq.ipynb
 
 ## I - Section 4: Matrix review and dimensionality reduction | Singular Value Decomposition (Vision)  | Text classification Term Freq
 
+I12. 5a_M5_KernelPCA.ipynb
 
