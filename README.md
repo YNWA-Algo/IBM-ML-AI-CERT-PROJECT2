@@ -27,4 +27,5 @@ I11. 4_M6b_tf_idf_Termfreq.ipynb
 I12. 5a_M5_KernelPCA.ipynb  
 I13. 5b_M5_Multi_Dimensional_Scaling.ipynb
 I14. 4_M6c_Non_Negative_Matrix_Factorization.ipynb
+I15. 06_1a_DEMO_nonnegmf.ipynb
 
