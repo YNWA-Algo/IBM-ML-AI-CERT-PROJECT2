@@ -10,10 +10,11 @@ I3. 04a3_GMM_v2.ipynb
 I4. 04bM2_Distance_Dimensionality.ipynb  
 I5. 4cM2_DistanceMetrics.ipynb  
 
-I - Section 2: DBSCAN CLustering [Density-Based Spatial Clustering of Applications with Noise (DBSCAN) is a base algorithm for density-based clustering.]   
+I - Section 2: DBSCAN CLustering [Density-Based Spatial Clustering of Applications with Noise (DBSCAN) is a base algorithm for density-based clustering.]  +  Different Clustering methods examples
 
 
-I6. 4d_M3_DBSCAN.ipynb
+I6. 4d_M3_DBSCAN.ipynb  
+I7. 04f_M3_Clustering_Methods.ipynb
 
 
 H - Dealing with imbalanced datasets typical patterns of imbalanced data challenges
